@@ -1,0 +1,163 @@
+body{
+ margin:0;
+ text-align: center;
+}
+h1{
+  color:#66BFBF;
+  margin-top:0;
+font-family: 'Marck Script', cursive;
+  font-size: 90px;
+
+
+}
+h2{
+  font-family: 'Merienda', cursive;
+  color:#66BFBF;
+  font-size: 34px;
+
+}
+h3{
+  font-family: 'Merienda', cursive;
+  color:#11999E;
+}
+
+
+p {
+font-family: 'Sorts Mill Goudy', serif;
+  font-size: 18px;
+  color:#40514E;
+}
+hr{
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width:4%;
+margin: 100px auto;
+}
+a{
+  color:#11999E;
+  font-family: 'Merienda', cursive;
+  margin:10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color:#EAF6F6;
+}
+.top-container{
+  background-color: #E4F5F9;
+  position: relative;
+  padding-top: 150px;
+
+
+
+}
+.heading{
+  font-size: 22px;
+}
+.middle-container{
+  padding: 20px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+}
+.intro{
+  width:40%;
+  margin: 10px auto 20px;
+}
+.contact-me{
+  margin: 40px auto 60px;
+  width:40%;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 170px;
+  text-align: left;
+  line-height: 2;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 20px;
+  padding:20px 0;
+  font-family:'Sorts Mill Goudy', serif;
+}
+
+
+.top-cloud{
+  height:150px;
+  width:200px;
+  position: absolute;
+  right:300px;
+  top:50px;
+
+}
+.bottom-cloud{
+  height:150px;
+  width:200px;
+  position: absolute;
+  left:300px;
+  bottom:500px;
+
+}
+.mountain{
+  height:500px;
+
+}
+.profile-pic{
+  height:300px;
+  width:300px;
+}
+.code-gif{
+
+  width:50%;
+  float:left;
+  margin-right: 30px;
+
+}
+.design{
+
+  width:30%;
+  float:right;
+  margin-left: 30px;
+
+}
+.book-gif{
+
+  width:30%;
+  float:left;
+  margin-right: 30px;
+
+}
+.camera{
+
+  width:30%;
+  float:right;
+  margin-left: 30px;
+
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family:'Merienda', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
